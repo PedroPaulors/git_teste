@@ -1,0 +1,2 @@
+Iniciando com o Git
+O projeto Odin facilitando meus estudos.
